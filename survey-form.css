@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+}
+
+body {
+  justify: center;
+  width: 100%;
+  display: grid;
+}
+
+#survey-form {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  display: grid;
+  border: 2px solid black;
+  justify-self: center;
+}
+
+.input {
+  width: 80%;
+  float: right;
+}
